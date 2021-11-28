@@ -1,0 +1,436 @@
+2021-11-27 17:31:18 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:21 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:24 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:27 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:30 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:42 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:46 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:49 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:53 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:56 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:31:59 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:32:02 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:32:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:01 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:13 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:26 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:30 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:33 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:39 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:42 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:45 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:33:48 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:34:05 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:02 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:05 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:08 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:11 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:14 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:21 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:27 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:31 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:34 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:37 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:40 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:43 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:46 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:49 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:36:59 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:37:37 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 17:39:30 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:39:33 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:39:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:39:39 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:39:42 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:39:49 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:39:55 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:39:59 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:40:02 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:40:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:40:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:40:13 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:40:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:40:19 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:40:22 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:41:12 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 17:43:18 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:21 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:25 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:28 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:31 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:37 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:43 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:47 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:50 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:53 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:43:56 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:44:00 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:44:03 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:44:06 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:44:09 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:44:48 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 17:46:39 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:46:42 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:46:45 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:46:48 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:46:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:46:58 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:08 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:11 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:14 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:17 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:26 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:47:29 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:48:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:48:54 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:48:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:00 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:03 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:26 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:29 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:32 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:35 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:38 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:49:41 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:50:43 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:50:46 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:50:49 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:50:53 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:50:56 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:02 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:08 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:12 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:15 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:18 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:21 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:24 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:28 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:31 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:51:34 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:02 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:05 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:08 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:11 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:15 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:21 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:27 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:31 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:34 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:37 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:40 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:43 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:46 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:50 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:53 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:58:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:59:01 INFO  BasePageUtil:32 - Element found.
+2021-11-27 17:59:34 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 18:02:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:26 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:30 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:33 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:39 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:45 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:49 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:52 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:55 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:02:58 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:03:01 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:03:05 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:03:08 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:03:11 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:03:15 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:03:18 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:03:51 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 18:07:38 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:07:41 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:07:45 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:07:48 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:07:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:07:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:03 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:14 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:17 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:26 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:29 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:33 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:08:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:09:10 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 18:10:32 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:10:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:10:39 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:10:42 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:10:45 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:10:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:10:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:01 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:11 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:14 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:17 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:30 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:33 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:11:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:12:14 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 18:12:46 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:12:49 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:12:52 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:12:55 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:12:58 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:05 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:11 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:15 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:18 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:21 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:24 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:27 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:30 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:34 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:37 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:40 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:43 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:13:46 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:14:03 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:38:44 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:38:47 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:38:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:38:54 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:38:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:03 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:09 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:13 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:19 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:22 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:26 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:29 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:32 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:35 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:44 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:48 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:39:55 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:14 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:17 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:27 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:33 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:39 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:43 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:46 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:49 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:52 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:55 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:43:58 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:44:01 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:44:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:44:12 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:44:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:44:19 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:44:25 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:46:20 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 18:51:32 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:51:35 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:51:39 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:51:42 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:51:45 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:52:21 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 18:58:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:59:00 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:59:03 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:59:06 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:59:09 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:59:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 18:59:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:00:01 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:00:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:00:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:00:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:00:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:05:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:06:00 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:06:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:06:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:06:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:07:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:07:10 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:07:13 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:07:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:07:19 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:10:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:10:26 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:10:30 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:10:33 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:10:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:10:42 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:24:55 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:24:58 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:01 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:07 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:14 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:20 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:25 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:28 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:31 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:34 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:38 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:41 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:44 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:47 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:54 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:25:57 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:26:06 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:26:40 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 19:38:47 INFO  BasePageUtil:35 - Element is not found!
+2021-11-27 19:40:28 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:40:32 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:40:36 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:40:40 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:40:43 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:40:51 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:04 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:12 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:16 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:19 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:23 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:27 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:31 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:34 INFO  BasePageUtil:32 - Element found.
+2021-11-27 19:41:38 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:31:48 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:31:51 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:31:54 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:31:57 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:00 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:07 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:13 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:17 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:20 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:23 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:26 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:29 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:32 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:35 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:39 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:43 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:46 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:49 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:32:56 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:33:40 INFO  BasePageUtil:35 - Element is not found!
+2021-11-28 11:35:05 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:08 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:11 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:14 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:17 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:23 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:30 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:33 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:37 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:40 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:43 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:46 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:49 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:52 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:35:55 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:36:00 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:36:03 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:36:06 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:36:14 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:43:33 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:43:36 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:43:39 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:43:42 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:43:45 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:43:52 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:43:58 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:02 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:05 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:08 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:11 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:14 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:17 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:20 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:23 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:28 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:31 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:34 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:44:43 INFO  BasePageUtil:32 - Element found.
+2021-11-28 11:45:16 INFO  BasePageUtil:35 - Element is not found!
+2021-11-28 11:53:00 INFO  BasePageUtil:34 - Element is not found! Exception: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='fsp-modal'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'AhmetFaruksMBP', ip: '192.168.1.112', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: /var/folders/rh/n2d_3ssj18z...}, goog:chromeOptions: {debuggerAddress: localhost:52237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:52237/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4465f7766f83079bd302875d8e57b01c
+2021-11-28 12:10:02 INFO  BasePageUtil:34 - Element is not found! Exception: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='fsp-modal'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'AhmetFaruksMBP', ip: '192.168.1.112', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: /var/folders/rh/n2d_3ssj18z...}, goog:chromeOptions: {debuggerAddress: localhost:56976}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:56976/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 471c1c80db436b012b03f0b14faf34a7
+2021-11-28 12:13:18 INFO  BasePageUtil:34 - Element is not found! Exception: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='fsp-modal'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'AhmetFaruksMBP', ip: '192.168.1.112', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: /var/folders/rh/n2d_3ssj18z...}, goog:chromeOptions: {debuggerAddress: localhost:57886}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:57886/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0cf403ef0185a6e15e6f4bd188bc40ec
+2021-11-28 12:22:45 INFO  BasePageUtil:35 - Element is not found! Exception: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: By.id('Wall') (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'AhmetFaruksMBP', ip: '192.168.1.112', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: /var/folders/rh/n2d_3ssj18z...}, goog:chromeOptions: {debuggerAddress: localhost:60355}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:60355/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 04604c3e66634e6cdbd276a2a4e1664d
+2021-11-28 12:51:46 INFO  BasePageUtil:30 - Login successful.
+2021-11-28 12:51:49 INFO  BasePageUtil:32 - My Events Page has already opened.
+2021-11-28 12:51:52 INFO  BasePageUtil:53 - Test Automation Assessment Event is found.
+2021-11-28 12:52:14 INFO  BasePageUtil:39 - Login successful.
+2021-11-28 12:52:27 INFO  BasePageUtil:48 - path = /Users/ahmetfarukdurmaz/socio-web-test-automation/images.png
+2021-11-28 12:52:34 INFO  BasePageUtil:52 - Upload completed.
+2021-11-28 12:52:42 INFO  BasePageUtil:55 - Successfully sended.
+2021-11-28 12:53:17 INFO  BasePageUtil:31 - Edit Wall Opened.
+2021-11-28 12:53:20 INFO  BasePageUtil:41 - XHcMAjyglE has found.
+2021-11-28 12:55:35 INFO  BasePageUtil:30 - Login successful.
+2021-11-28 12:55:38 INFO  BasePageUtil:32 - My Events Page has already opened.
+2021-11-28 12:55:42 INFO  BasePageUtil:53 - Test Automation Assessment Event is found.
+2021-11-28 12:56:15 INFO  BasePageUtil:39 - Login successful.
+2021-11-28 12:56:30 INFO  BasePageUtil:48 - path = /Users/ahmetfarukdurmaz/socio-web-test-automation/images.png
+2021-11-28 13:07:09 INFO  BasePageUtil:30 - Login successful.
+2021-11-28 13:07:13 INFO  BasePageUtil:32 - My Events Page has already opened.
+2021-11-28 13:07:17 INFO  BasePageUtil:53 - Test Automation Assessment Event is found.
+2021-11-28 13:07:53 INFO  BasePageUtil:39 - Login successful.
+2021-11-28 13:08:08 INFO  BasePageUtil:48 - path = /Users/ahmetfarukdurmaz/socio-web-test-automation/images.png
+2021-11-28 13:08:17 INFO  BasePageUtil:52 - Upload completed.
+2021-11-28 13:08:50 ERROR BasePageUtil:39 - Element is not found! Exception: java.lang.ClassCastException: class com.google.common.collect.Maps$TransformedEntriesMap cannot be cast to class org.openqa.selenium.WebElement (com.google.common.collect.Maps$TransformedEntriesMap and org.openqa.selenium.WebElement are in unnamed module of loader 'app')
+2021-11-28 13:09:52 INFO  BasePageUtil:30 - Login successful.
+2021-11-28 13:09:56 INFO  BasePageUtil:32 - My Events Page has already opened.
+2021-11-28 13:10:00 INFO  BasePageUtil:53 - Test Automation Assessment Event is found.
+2021-11-28 13:10:29 INFO  BasePageUtil:39 - Login successful.
+2021-11-28 13:10:44 INFO  BasePageUtil:48 - path = /Users/ahmetfarukdurmaz/socio-web-test-automation/images.png
+2021-11-28 13:10:53 INFO  BasePageUtil:52 - Upload completed.
+2021-11-28 13:10:58 INFO  BasePageUtil:55 - Successfully sended.
+2021-11-28 13:11:12 INFO  BasePageUtil:31 - Edit Wall Opened.
+2021-11-28 13:11:17 INFO  BasePageUtil:41 - ifHCRLSuPN has found.

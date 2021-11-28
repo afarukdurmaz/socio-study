@@ -1,0 +1,17 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "alihanozbayrak1",
+  "key": "yYzukxkJ3sAqxT1pyW7B",
+
+  "capabilities": {
+    "build": "browserstack-build-1",
+    "name": "Socio_Study_Case",
+    "browserstack.debug": true
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    }
+  }
+}
