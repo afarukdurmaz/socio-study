@@ -17,11 +17,13 @@ public class EditEventPage extends BasePage<EditEventPage> {
         super(driver, wait);
     }
 
+
     private static final Logger logger = LogManager.getLogger(BasePageUtil.class);
 
 
     private final By WALL_BUTTON = By.id("Wall");
     private final By EDIT_WALL_BUTTON = By.xpath("//button[@data-testid='buttonEditFeature']");
+    private  final By POSTS = By.xpath("//*[contains(@class,'post-caption')]/span");
 
 
     public EditEventPage openEditWall() {
@@ -33,7 +35,7 @@ public class EditEventPage extends BasePage<EditEventPage> {
     }
 
     public EditEventPage validatePostIsListed(String postName) {
-        List<WebElement> posts = findElementsBy(By.xpath("//*[contains(@class,'post-caption')]/span"));
+        List<WebElement> posts = findElementsBy(POSTS);
         boolean validate = false;
         for (WebElement element : posts) {
             if(element.getText().equals(postName)) {

@@ -1,14 +1,21 @@
 package pages;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WindowType;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+import util.BasePageUtil;
 
 public class WebAppPage extends BasePage<WebAppPage> {
     public WebAppPage(WebDriver driver, WebDriverWait wait) {
         super(driver, wait);
     }
+
+    private static final Logger logger = LogManager.getLogger(BasePageUtil.class);
+
 
     private final By WEB_APP_SETTINGS_BUTTONS = By.xpath("//div[@class='bootstrap-switch-container']/..");
     private final By ENABLE_WEB_APP_BUTTONS = By.xpath("//span[@class='bootstrap-switch-label']");
@@ -23,12 +30,12 @@ public class WebAppPage extends BasePage<WebAppPage> {
             if (!webAppStatus.contains("bootstrap-switch-on")) {
                 findElementsBy(ENABLE_WEB_APP_BUTTONS).get(0).click();
                 clickElement(SAVE_BUTTON);
-                System.out.println("tiklandi.");
+                logger.info("Clicked Web App Enable button");
             } else {
-                System.out.println("Web app Enable is true.");
+                logger.info("Web app already enable.");
             }
         } catch (Exception ex) {
-
+            Assert.assertTrue(false, "Enable Web App has failed!");
         }
         return this;
     }

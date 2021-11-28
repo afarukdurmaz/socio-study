@@ -52,7 +52,7 @@ public class WallPage extends BasePage<WallPage> {
         logger.info("Upload completed.");
         waitUntilDisappearElement(FORM);
         clickElement(SEND_BUTTON);
-        logger.info("Successfully sended.");
+        logger.info("Successfully sent.");
         return this;
     }
 

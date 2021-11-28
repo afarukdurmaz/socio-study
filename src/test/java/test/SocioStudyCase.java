@@ -9,14 +9,15 @@ import util.LocalSetUp;
 
 public class SocioStudyCase extends BrowserStackTestNGTest {
 
+    public static final String EVENT_NAME = "Test Automation Assessment Event";
     Configuration configuration = new Configuration();
 
     @Test
     public void studyCase() {
         String postName = new MainPage(driver, wait).callLoginPage()
-                .login("testautomation@socio.events", "ta12345")
+                .login(configuration.getSocioMail(), configuration.getSocioPass())
                 .validateMyEventsPageOpen()
-                .chooseEvent("Test Automation Assessment Event")
+                .chooseEvent(EVENT_NAME)
                 .callWebAppPage()
                 .validateEnableWebApp()
                 .copyShareableLinkAndOpenNewWindow()
